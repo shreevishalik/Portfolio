@@ -4,7 +4,7 @@ This is my personal portfolio website built using **HTML** and **CSS**. It is de
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://shree-vishali-portfolio.netlify.app/)
+Click here for live demo! [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://shree-vishali-portfolio.netlify.app/)
 
 ## Features
 
