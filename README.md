@@ -1,6 +1,10 @@
 # Portfolio Website
 
-This is my personal portfolio website built using **HTML** and **CSS**. It is designed to showcase my **skills, projects, about me, and contact information** in a structured, visually appealing, and responsive way. The site focuses on clean layouts, card-based designs, and smooth user interactions.  
+This is my personal portfolio website built using **HTML** and **CSS**. It is designed to showcase my **skills, projects, about me, and contact information** in a structured, visually appealing, and responsive way. The site focuses on clean layouts, card-based designs, and smooth user interactions.
+
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-website-link.netlify.app)
 
 ## Features
 
